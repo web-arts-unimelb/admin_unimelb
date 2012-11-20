@@ -1,0 +1,14 @@
+name = Unimelb Admin
+description = The University of Melbourne admin theme, based on Rubik.
+core = 7.x
+version = 7.x-1.0
+
+base theme = rubik
+
+regions[content] = Content
+regions[help] = Help
+regions[page_top] = Page top
+regions[page_bottom] = Page bottom
+
+scripts[] = js/admin_unimelb.js
+stylesheets[screen][] = css/core.css
